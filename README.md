@@ -3,7 +3,7 @@ wp-cli/ideas
 
 ### Have an idea for a WP-CLI command?
 
-Feel free to [add an emoji reaction to existing issue](https://github.com/wp-cli/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) if you can find one that matches, or [create a new issue](https://github.com/wp-cli/ideas/issues/new) if no one has proposed the idea yet.
+Feel free to [add an emoji reaction to existing Ideas repo issue](https://github.com/wp-cli/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) if you can find one that matches, or [create a new issue](https://github.com/wp-cli/ideas/issues/new) if no one has proposed the idea yet.
 
 ### Curious as to how ideas become WP-CLI commands?
 
